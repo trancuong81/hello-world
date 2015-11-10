@@ -1,2 +1,3 @@
-# hello-world
-Just a test
+# Hello world
+
+Just a test.
